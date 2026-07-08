@@ -1,3 +1,6 @@
+## Summary
+This project develops an AI‑enabled aircraft refueling monitoring system that analyzes fuel quality, equipment health, and operational safety using multi‑sensor data. It provides real‑time alerts, predictive maintenance, and intelligent safety interlocks.
+Building AI course project.
 # AI-Based-fuel-quality-monitoring-
 # Project overview 
 Develop an AI- enabled aircraft refueling system that continuously monitors fuel quality , equipment health and operation safety using data from multiple sensors , integrate AI algorithms with sensors measuring flow , pressure , differential pressure , water contamination, vibration , tank level , grounding status.
